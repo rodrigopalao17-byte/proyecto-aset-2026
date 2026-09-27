@@ -1,0 +1,5 @@
+bases/
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
